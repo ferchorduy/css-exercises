@@ -11,3 +11,6 @@
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
+
+/* solution had one class per button, and did .class1, .class2 {}, as opposed to how
+I did it with having an extra class for both buttons called .font-specs */
