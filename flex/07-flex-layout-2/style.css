@@ -71,3 +71,8 @@ ul {
   align-items: center;
   padding: 32px
 }
+
+/* Solution is somewhat similar. HTML is the same, just different class names, so
+I understand how to separate divs. CSS is different: my ul {} did not need flex;
+.card {} did not need flex:; and my .cards {} had too much info. In terms of functionality,
+my code still worked, just has to be more concise. */
